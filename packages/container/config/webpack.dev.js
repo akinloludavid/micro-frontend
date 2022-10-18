@@ -10,6 +10,7 @@ const devConfig = {
       index: 'index.html'
     }
   },
+
   plugins: [
     new ModuleFederationPlugin({
       name: 'container',
