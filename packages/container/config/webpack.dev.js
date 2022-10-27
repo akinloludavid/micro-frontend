@@ -19,7 +19,6 @@ const devConfig = {
       },
       shared: ['react', 'react-dom']
     }),
-
   ]
 }
 
